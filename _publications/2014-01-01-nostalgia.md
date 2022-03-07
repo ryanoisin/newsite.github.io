@@ -1,7 +1,7 @@
 ---
-title: "Panculatural Nostalgia: Prototypical Conceptions Across Cultures"
+title: "Pancultural Nostalgia: Prototypical Conceptions Across Cultures"
 collection: publications
-permalink: /publication/2014-10-01-pancultural-nostalgia
+permalink: /publication/2014-01-01-nostalgia
 excerpt: ' '
 date: 2014-10-01
 venue: 'Emotion'
