@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "A squared standard error is not a measure of individual differences"
 collection: publications
 permalink: /publication/2019-02-02-standarderror
 excerpt: ' '
