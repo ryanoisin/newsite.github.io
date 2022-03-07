@@ -1,5 +1,5 @@
 ---
-title: "(Pre-print) The Sum of All Fears: Comparing Networks Based on Symptom Sum-Scores"
+title: "(Pre-print) The Challenge of Generating Causal Hypotheses Using Network Models"
 collection: publications
 permalink: /publication/2022-03-07-hypotheses
 excerpt: ' '
