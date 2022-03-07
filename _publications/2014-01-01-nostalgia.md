@@ -3,7 +3,7 @@ title: "Panculatural Nostalgia: Prototypical Conceptions Across Cultures"
 collection: publications
 permalink: /publication/2014-10-01-pancultural-nostalgia
 excerpt: ' '
-date: 2009-10-01
+date: 2014-10-01
 venue: 'Emotion'
 paperurl: 'https://psycnet.apa.org/doiLanding?doi=10.1037/a0036790'
 citation: 'Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen, N.,... Ryan, O., & Stephan, E. & Vingerhoets, A. J. J. (2014). Pancultural Nostalgia: Prototypical Conceptions Across Cultures. Emotion, 14(4).'
