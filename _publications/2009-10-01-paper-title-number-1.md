@@ -1,15 +1,16 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2014-10-01-pancultural-nostalgia
+excerpt: ' '
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Emotion'
+paperurl: 'https://psycnet.apa.org/doiLanding?doi=10.1037/a0036790'
+citation: 'Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen, N.,\dots \textbf{Ryan, O.}, & Stephan, E. & Vingerhoets, A. J. J. (2014). Pancultural Nostalgia: Prototypical Conceptions Across Cultures. \textit{Emotion, 14}(4) \\.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Nostalgia is a frequently experienced complex emotion, understood by laypersons in the United Kingdom and United States of America to (a) refer prototypically to fond, self-relevant, social memories and (b) be more pleasant (eg, happy, warm) than unpleasant (eg, sad, regretful). This research examined whether people across cultures conceive of nostalgia in the same way. Students in 18 countries across 5 continents (N= 1,704) rated the prototypicality of 35 features of nostalgia.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://psycnet.apa.org/doiLanding?doi=10.1037/a0036790)
+
+Recommended citation: Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen, N.,... **Ryan, O.**, & Stephan, E. & Vingerhoets, A. J. J. (2014). Pancultural Nostalgia: Prototypical Conceptions Across Cultures. *Emotion, 14*(4)
