@@ -2,7 +2,7 @@
 title: "A systematic review of Bayesian articles in psychology: The last 25 years."
 collection: publications
 permalink: /publication/2017-10-01-bayesreview.md
-excerpt: 
+excerpt: ' "
 date: 2017-10-01
 venue: 'Psychological Methods'
 paperurl: 'https://psycnet.apa.org/doiLanding?doi=10.1037/met0000100'
