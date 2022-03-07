@@ -2,7 +2,7 @@
 title: "A continuous time approach to intensive longitudinal data: What, Why and How"
 collection: publications
 permalink: /publication/2018-10-01-CTchapter
-excerpt:
+excerpt: ' ' 
 date: 2018-10-01
 venue: 'Continuous Time Modeling in the Behavioral and Related Sciences'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-77219-6_2'
