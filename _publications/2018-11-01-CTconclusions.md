@@ -16,5 +16,3 @@ In this article, we demonstrate the exact circumstances under which such conflic
 [Download chapter here](https://www.tandfonline.com/doi/abs/10.1080/10705511.2018.1431046)
 
 [Pre-print version here](http://ryanoisin.github.io/files/RyanKuiperHamaker_preprint_CTchapter.pdf)
-
-Recommended citation: Kuiper, R. M., & **Ryan, O.** (2018). Drawing conclusions from cross-lagged relationships: Re-considering the role of the time-interval. Structural Equation Modeling: A Multidisciplinary Journal, 25(5), 809-823.
