@@ -9,4 +9,4 @@ paperurl: 'https://www.pnas.org/content/116/14/6544.short'
 citation: 'Hamaker, E. L., & <b>Ryan, O.</b> (2019). A squared standard error is not a measure of individual differences. Proceedings of the National Academy of Sciences, 116(14), 6544-6545. '
 ---
 
-[Download chapter here](https://www.pnas.org/content/116/14/6544.short)
+[Download here](https://www.pnas.org/content/116/14/6544.short)
