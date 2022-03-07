@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of Bayesian articles in psychology: The last 25 years."
 collection: publications
-permalink: /publication/2017-10-01-bayesreview.md
+permalink: /publication/2017-10-01-bayesreview
 excerpt: ' '
 date: 2017-10-01
 venue: 'Psychological Methods'
