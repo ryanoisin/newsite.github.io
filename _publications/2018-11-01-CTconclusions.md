@@ -13,6 +13,5 @@ The cross-lagged panel model (CLPM), a discrete-time (DT) SEM model, is frequent
 
 In this article, we demonstrate the exact circumstances under which such conflicting conclusions occur. Specifically, we show that such conflicts are only avoided in general in the case of bivariate, stable, nonoscillating, first-order systems, when comparing models with uniform time-intervals between observations. In addition, we provide a range of tools, proofs, and guidelines regarding the comparison of discrete- and continuous-time parameter estimates.
 
-[Download chapter here](https://www.tandfonline.com/doi/abs/10.1080/10705511.2018.1431046)
+[Download here](https://www.tandfonline.com/doi/abs/10.1080/10705511.2018.1431046)
 
-[Pre-print version here](http://ryanoisin.github.io/files/RyanKuiperHamaker_preprint_CTchapter.pdf)
