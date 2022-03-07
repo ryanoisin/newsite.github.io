@@ -13,4 +13,4 @@ Nostalgia is a frequently experienced complex emotion, understood by laypersons 
 
 [Download paper here](https://psycnet.apa.org/doiLanding?doi=10.1037/a0036790)
 
-Recommended citation: Hepper, E. G., Wildschut, T., Sedikides, C., Ritchie, T. D., Yung, Y. F., Hansen, N.,... <b>Ryan, O.</b>, & Stephan, E. & Vingerhoets, A. J. J. (2014). Pancultural Nostalgia: Prototypical Conceptions Across Cultures. *Emotion, 14*(4)
+
