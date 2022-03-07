@@ -15,4 +15,3 @@ The aim of this chapter is to (a) provide a broad didactical treatment of the fi
 
 [Pre-print version here](http://ryanoisin.github.io/files/RyanKuiperHamaker_preprint_CTchapter.pdf)
 
-Recommended citation: **Ryan, O.** Kuiper, R. M., & Hamaker, E. L. (2018). A Continuous Time Approach to Intensive Longitudinal Data: What, Why and How? In In K. v. Montfort, J. H. L. Oud, & M. C. Voelkle (Eds.), Continuous Time Modeling in the Behavioral and Related Sciences. Springer, Cham.
