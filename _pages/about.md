@@ -13,4 +13,4 @@ I work as a postdoctoral researcher at the [Department of Methodology and Statis
 
 My research touches on diverse fields such as computational modeling, time series analysis, causal modeling, graphical models and dynamical systems. I'm passionate about using insights from those different areas to help scientists tackle the different problems they encounter in their research: Much of my work has focused on using these different methodological toolboxes to answer research questions in clinical psychology. 
 
-I am a strong believer in open science practices, so I strive to make all my papers, pre-prints, talks, workshops, and code open and easily accessible.
+I am a strong believer in open science practices, so I strive to make all my [papers and pre-prints](https://oisinryan.org/pulications), [talks](https://oisinryan.org/talks), [workshop material](https://oisinryan.org/workshops), and code open and easily accessible.
