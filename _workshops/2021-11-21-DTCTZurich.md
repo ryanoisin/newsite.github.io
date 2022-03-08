@@ -1,5 +1,5 @@
 ---
-title: "Modelling Intensive Longitudinal Data in Discrete-Time and Continuous-Time "
+title: "Modeling Intensive Longitudinal Data in Discrete-Time and Continuous-Time "
 collection: workshops
 type: "Workshop"
 permalink: /workshops/2021-11-21-DTCTZurich
