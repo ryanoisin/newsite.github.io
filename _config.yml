@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  code:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -228,6 +230,15 @@ defaults:
       share: true
       comments: true
   # _workshops
+  - scope:
+      path: ""
+      type: workshops
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _code
   - scope:
       path: ""
       type: workshops
