@@ -1,8 +1,8 @@
 ---
 title: "Modelling Intensive Longitudinal Data in Discrete-Time and Continuous-Time "
-collection: talks
+collection: workshops
 type: "Workshop"
-permalink: /talks/2021-11-21-DTCTZurich
+permalink: /workshops/2021-11-21-DTCTZurich
 excerpt: "Two-day workshop for the R group at the University of Zurich. Materials [here](https://github.com/ryanoisin/ModelingILD_UZH21)"
 date: 2021-11-21
 location: "Zurich, Switzerland"
