@@ -4,7 +4,7 @@ collection: workshops
 type: "Workshop"
 permalink: /workshops/2021-12-10-masterclass
 excerpt: "Two-day workshop at the Digital Health Masterclass, University Medical Centre. Workshop materials [here](https://github.com/ryanoisin/IntroCausalModeling2021)"
-date: 2021-11-21
+date: 2021-12-10
 location: "Utrecht, Netherlands"
 ---
 
