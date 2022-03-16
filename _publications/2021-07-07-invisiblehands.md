@@ -14,3 +14,6 @@ In recent years, a growing chorus of researchers have argued that psychological 
 [Download here](https://journals.sagepub.com/doi/abs/10.1177/1745691620974697)
 
 [Pre-print version here](https://psyarxiv.com/ugz7y/)
+
+[Reproducibility Archive](https://osf.io/gcqnf/)
+
