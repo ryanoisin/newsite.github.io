@@ -15,3 +15,5 @@ The aim of this chapter is to (a) provide a broad didactical treatment of the fi
 
 [Pre-print version here](http://ryanoisin.github.io/files/RyanKuiperHamaker_preprint_CTchapter.pdf)
 
+[[Supplementary Materials]](https://github.com/ryanoisin/continuous_time-ILD-what-why-how)
+
