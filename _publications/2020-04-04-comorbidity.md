@@ -13,3 +13,4 @@ Comorbidity between depressive and anxiety disorders is common. A hypothesis of 
 
 [Download here](https://link.springer.com/article/10.1186/s12916-020-01738-z)
 
+[Reproducibility Archive](https://osf.io/jzru8/)
