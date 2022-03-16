@@ -1,5 +1,5 @@
 ---
-title: "R Package SEset"
+title: "SEset (R package)"
 excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. Github page: <https://github.com/ryanoisin/SEset>"
 collection: Code
 ---
