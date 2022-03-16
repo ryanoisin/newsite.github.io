@@ -1,6 +1,6 @@
 ---
 title: "R Package SEset"
-excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs"
+excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. Github page here<https://github.com/ryanoisin/SEset>"
 collection: code
 ---
 
