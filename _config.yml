@@ -241,7 +241,7 @@ defaults:
   # _code
   - scope:
       path: ""
-      type: workshops
+      type: code
     values:
       layout: single
       author_profile: true
@@ -250,7 +250,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: workshops
+      type: portfolio
     values:
       layout: single
       author_profile: true
