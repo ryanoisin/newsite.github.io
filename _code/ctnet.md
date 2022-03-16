@@ -1,5 +1,5 @@
 ---
-title: "ctnet (R Package)"
+title: "ctnet (R package)"
 excerpt: "Tools for Continuous-Time Dynamical Network Analysis. Github page: <https://github.com/ryanoisin/ctnet>"
 collection: code
 ---
