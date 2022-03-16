@@ -1,6 +1,6 @@
 ---
 title: "R Package ctnet"
-excerpt: "Tools for Continuous-Time Dynamical Network Analysis. Github page here<https://github.com/ryanoisin/ctnet>"
+excerpt: "Tools for Continuous-Time Dynamical Network Analysis. Github page: <https://github.com/ryanoisin/ctnet>"
 collection: code
 ---
 
