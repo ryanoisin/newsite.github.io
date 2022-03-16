@@ -3,7 +3,7 @@ title: "Modeling Intensive Longitudinal Data in Discrete-Time and Continuous-Tim
 collection: workshops
 type: "Workshop"
 permalink: /workshops/2021-11-21-DTCTZurich
-excerpt: "Two-day workshop for the R group at the University of Zurich. Materials [here](https://github.com/ryanoisin/ModelingILD_UZH21)"
+venue: "R group, University of Zurich."
 date: 2021-11-21
 location: "Zurich, Switzerland"
 ---
