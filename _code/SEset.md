@@ -1,7 +1,7 @@
 ---
 title: "R Package SEset"
-excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. Github page here<https://github.com/ryanoisin/SEset>"
-collection: code
+excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. Github page: <https://github.com/ryanoisin/SEset>"
+collection: Code
 ---
 
 Tools to compute and analyze the set of statistically-equivalent (Gaussian, linear) path models which generate the same precision or (partial) correlation matrix.
