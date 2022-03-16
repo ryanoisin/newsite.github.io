@@ -13,3 +13,5 @@ Idiographic modeling is rapidly gaining popularity, promising to tap into the wi
 
 [Download here](https://www.tandfonline.com/doi/abs/10.1080/00273171.2021.1896353)
 
+[Reproducibility Archive](https://github.com/jmbh/RecoveringWithinPersonDynamics)
+
