@@ -10,3 +10,5 @@ citation: 'Hamaker, E. L., & <b>Ryan, O.</b> (2019). A squared standard error is
 ---
 
 [Download here](https://www.pnas.org/content/116/14/6544.short)
+
+[Reproducibility Archive](https://osf.io/h3djy/)
