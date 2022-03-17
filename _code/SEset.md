@@ -1,6 +1,6 @@
 ---
 title: "SEset (R package)"
-excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. Github page: <https://github.com/ryanoisin/SEset>"
+excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. CRAN: <https://cran.r-project.org/web/packages/SEset/"
 collection: Code
 ---
 
@@ -14,3 +14,4 @@ More details can be found in: Ryan, O., Bringmann, L.F., & Schuurman, N.K. (2022
 
 This github page for this package can be found [here](https://github.com/ryanoisin/SEset) 
 
+The CRAN page can be found [here](https://cran.r-project.org/web/packages/SEset/)
