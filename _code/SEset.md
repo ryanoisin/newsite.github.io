@@ -1,6 +1,6 @@
 ---
 title: "SEset (R package)"
-excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. CRAN: <https://cran.r-project.org/web/packages/SEset/"
+excerpt: "A tool to compute and explore statistically-equivalent path models based on GGMs. CRAN: <https://cran.r-project.org/web/packages/SEset/">
 collection: Code
 ---
 
