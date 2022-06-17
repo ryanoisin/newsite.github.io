@@ -1,10 +1,10 @@
 ---
-title: "(Accepted) The Challenge of Generating Causal Hypotheses Using Network Models"
+title: "The Challenge of Generating Causal Hypotheses Using Network Models"
 collection: publications
 permalink: /publication/2022-06-15-hypotheses
 excerpt: ' '
 date: 2022-06-15
-venue: 'PsyArxiv'
+venue: 'Structural Equation Modeling: A Multidisciplinary Journal'
 paperurl: ' https://doi.org/10.1080/10705511.2022.2056039'
 citation: '<b>Ryan, O.</b>, Bringmann, L. F., & Schuurman, N. K. (2022). The Challenge of Generating Causal Hypotheses Using Network Models. Structural Equation Modeling: A Multidisciplinary Journal.'
 ---
