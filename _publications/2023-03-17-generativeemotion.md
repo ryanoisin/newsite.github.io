@@ -2,6 +2,7 @@
 title: "(Pre-Print) Towards a Generative Model for Emotion Dynamics"
 collection: publications
 permalink: /publication/2023-03-17-generativeemotion
+excerpt: '<b>Joint First Authorship</b>'
 date: 2023-03-17
 venue: 'PsyArxiv'
 paperurl: 'https://psyarxiv.com/x52ns'
