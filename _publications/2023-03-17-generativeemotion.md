@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-03-17-generativeemotion
 date: 2023-03-17
 venue: 'PsyArxiv'
-paperurl: 'https://psyarxiv.com/eus2q'
+paperurl: 'https://psyarxiv.com/x52ns'
 citation: '<b>Ryan, O.</b>*, Dablander, F.* & Haslbeck, J.M.B* (2023) Towards a Generative Model for Emotion Dynamics'
 ---
 
