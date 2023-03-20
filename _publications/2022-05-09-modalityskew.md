@@ -1,12 +1,12 @@
 ---
-title: "(Pre-Print) Multimodality and Skewness in Emotion Time Series"
+title: "(In-press) Multimodality and Skewness in Emotion Time Series"
 collection: publications
 permalink: /publication/2022-05-09-modalityskew
 excerpt: '<b>Joint First Authorship</b>'
 date: 2022-05-09
-venue: 'PsyArxiv'
+venue: 'Emotion'
 paperurl: ' https://psyarxiv.com/qudr6'
-citation: 'Haslbeck, J.M.B*, <b>Ryan, O.</b>*, & Dablander, F.* (2022, May 9). Multimodality and Skewness in Emotion Time Series.'
+citation: 'Haslbeck, J.M.B*, <b>Ryan, O.</b>*, & Dablander, F.* (in press). Multimodality and Skewness in Emotion Time Series.'
 ---
 
 
