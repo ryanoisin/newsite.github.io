@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I work as an assistant professor at the [Department of Data Science and Biostatistics](https://juliuscentrum.umcutrecht.nl/en/data-science-and-biostatistics), University Medical Centre Utrecht, in the Netherlands. I develop tools and approaches which help scientists across the biomedical, social and behavioural sciences study causal relations with non-experimental data. 
+I am assistant professor at the [Department of Data Science and Biostatistics](https://juliuscentrum.umcutrecht.nl/en/data-science-and-biostatistics), University Medical Centre Utrecht, in the Netherlands. I develop tools and approaches that help biomedical, social, and behavioral scienctists study causal relations using observational data. 
 
-My research has focused on causal inference, as well as time-series analysis, graphical models, and computational modeling. I collaborate with researchers from diverse backgrounds, such as epidemiology, clinical psychology and psychiatry, linguisitics and public policy. All of the code I develop is made accessible either through reproducibility archives or R packages. See my page on [software and code](https://oisinryan.org/code) for details.
+My methods research has touched on causal inference, time-series analysis, graphical models, and computational modeling. I collaborate with researchers from diverse backgrounds, such as epidemiology, clinical psychology and psychiatry, linguisitics and public policy. Since July 2023 I work on the [VAC4EU](https://vac4eu.org/) project with the Real World Evidence team at UMC Utrecht.
 
 I co-ordinate the [Special Interest Group in Causal Data Science](https://www.uu.nl/en/research/applied-data-science/sig-causal-data-science) at the UU/UMCU. This group brings together researchers from the social sciences, computer science, medical research and economics who share an interest in causal modeling and its intersection with modern data science techniques. 
 
