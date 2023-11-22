@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am assistant professor at the [Department of Data Science and Biostatistics](https://juliuscentrum.umcutrecht.nl/en/data-science-and-biostatistics), University Medical Centre Utrecht, in the Netherlands. I develop tools and approaches that help biomedical, social, and behavioral scienctists study causal relations using observational data. 
+I am assistant professor at the [Department of Data Science and Biostatistics](https://juliuscentrum.umcutrecht.nl/en/data-science-and-biostatistics), University Medical Centre Utrecht, in the Netherlands. I develop tools and approaches that help biomedical, social, and behavioral scientists study causal relations using observational data. 
 
 My methods research has touched on causal inference, time-series analysis, graphical models, and computational modeling. I collaborate with researchers from diverse backgrounds, such as epidemiology, clinical psychology and psychiatry, linguisitics and public policy. Since July 2023 I work on the [VAC4EU](https://vac4eu.org/) project with the Real World Evidence team at UMC Utrecht.
 
